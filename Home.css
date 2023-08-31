@@ -1,0 +1,58 @@
+button{
+  font-size: 40px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 20px;
+  background-color: aquamarine;
+  color: blue;
+}
+h1{
+  position: fixed;
+  top: 10%;
+  left: 40%;
+}
+#txt1
+{
+  font-size: 20px;
+  position: fixed;
+  top: 20%;
+  left: 30%;
+}
+#txt2
+{
+  font-size: 20px;
+  position: fixed;
+  top: 20%;
+  left: 50%;
+}
+#Answer
+{
+  font-size: 20px;
+  position: fixed;
+  top: 60%;
+  left: 40%;
+}
+#Addition
+{
+  position: fixed;
+  top: 30%;
+  left: 10%;
+}
+#Subtraction
+{
+  position: fixed;
+  top: 30%;
+  left: 25%;
+}
+#Multiplication
+{
+  position: fixed;
+  top: 30%;
+  left: 45%;
+}
+#Division
+{
+  position: fixed;
+  top: 30%;
+  left: 65%;
+}
